@@ -1,4 +1,4 @@
-👋 ### Hi, I'm Erica
+### Hi, I'm Erica
 
 📊 Data Analyst with previous experience in writing and development.
 🗺️ Love learning languages, linguistics, and the art of cartography.
